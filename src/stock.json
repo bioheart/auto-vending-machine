@@ -1,0 +1,24 @@
+{
+	"menus": [
+		{
+			"name": "cola",
+			"value": 15,
+			"ramain": 300
+		},
+		{
+			"name": "beer",
+			"value": 50,
+			"ramain": 300
+		},
+		{
+			"name": "juice",
+			"value": 25,
+			"ramain": 300
+		},
+		{
+			"name": "water",
+			"value": 10,
+			"ramain": 300
+		}
+	]
+}
